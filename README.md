@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gledson Luan !!
+## Olá! Meu nome é Gledson Luan !!
  <div>
   <a href="https://github.com/GledsonLScruz">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=GledsonLScruz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
