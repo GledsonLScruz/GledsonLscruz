@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="mcqueen" height="154" width="275" src="https://static.wikia.nocookie.net/piston-cup/images/a/af/9e376b3af2944d9a9d656ef239e29964.gif/revision/latest/scale-to-width-down/550?cb=20201117171648">
+  <img align="right" alt="mcqueen" height="154" width="275" src="https://c.tenor.com/O4O3dw4WD-wAAAAM/cars-lightning-mcqueen.gif">
 </div>
   
   ##
